@@ -2,9 +2,17 @@
 
 A collection of cocktail recipes in the [Open Recipe Format](https://open-recipe-format.readthedocs.io/en/latest/index.html).
 
+## Prerequisites
+
+You will need to know a few cocktail recipes and you can look up YAML on [DuckDuckGo](https://duckduckgo.com).
+
 ## Contributing
 
 Create recipes. Create pull requests. Grow the library.
+
+## Running tests
+
+Mix cocktails and then test them. Cheers!
 
 ## Authors
 
