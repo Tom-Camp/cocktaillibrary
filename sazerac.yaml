@@ -1,0 +1,34 @@
+recipe_name: Sazerac
+ingredients:
+  - rye whiskey:
+    - amount: 2.5
+      unit: ounce
+  - absinthe:
+    - amount: 2
+      unit: dash
+  - angostora bitters:
+    - amount: 1
+      unit: dash
+  - peychaud bitters:
+    - amount: 2
+      unit: dash
+  - sugar syrup:
+    - amount: 1
+      unit: teaspoon
+X-garnish: Garnish with a twist of orange.
+X-serve-in: old fashioned glass
+steps:
+  - step:
+      Fill an old fashioned glass with ice and water and set aside.
+  - step:
+      Add all of the other ingredients to a different old fashioned glass.
+  - step:
+      Fill with ice and set aside.
+  - step:
+      Empty the ice and water out of the first glass and add the absinthe.
+  - step:
+      With a twist of orange, spread the absinthe around the inside of the glass.
+  - step:
+      Strain the rest of the cocktail into the glass with the absinthe.
+notes:
+  - The classic New Orleans cocktail.

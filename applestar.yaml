@@ -1,0 +1,17 @@
+recipe_name: Apple Star Toddy
+ingredients:
+  - rye whiskey:
+    - amount: 2.5
+      unit: ounce
+  - honey:
+    - amount: 1
+      unit: teaspoon
+  - clove:
+    - amount: 4
+X-garnish: Garnish with a cinnamon stick.
+X-serve-in: toddy glass
+steps:
+  - step:
+      Add all of the ingredients to a toddy glass.
+  - step:
+      Fill with hot water.

@@ -1,0 +1,17 @@
+recipe_name: Applejack Toddy
+ingredients:
+  - rye whiskey:
+    - amount: 2.5
+      unit: ounce
+  - honey:
+    - amount: 1
+      unit: teaspoon
+  - clove:
+    - amount: 4
+X-garnish: Garnish with a cinnamon stick.
+X-serve-in: toddy glass
+steps:
+  - step:
+      Fill an old fashioned glass with ice and water and set aside.
+  - step:
+      Add all of the other ingredients to a different old fashioned glass.
