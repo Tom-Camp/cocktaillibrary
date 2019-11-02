@@ -1,0 +1,23 @@
+recipe_name: Jamaica Honey Bee
+ingredients:
+  - amber rum:
+    - amount: 2
+      unit: ounce
+  - honey syrup:
+    - amount: .75
+      unit: ounce
+  - lemon:
+    - amount: .75
+      unit: ounce
+      processing: juiced
+X-garnish: Garnish with a lemon wheel.
+X-serve-in: cocktail glass
+steps:
+  - step:
+      Mix all of the ingredients in a shaker.
+  - step:
+      Shake vigorously and strain into a chilled cocktail glass.
+source_url: http://12bottlebar.com/
+notes:
+  - For the honey syrup mix one part honey with one part warm water.
+  - For best results let the honey syrup cool.

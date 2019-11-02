@@ -1,0 +1,32 @@
+recipe_name: Thyme Will Tell Sour
+ingredients:
+  - bourbon whiskey:
+    - amount: 2
+      unit: ounce
+  - thyme:
+    - amount: 2
+      unit: sprig
+  - egg:
+    - amount: 1
+      processing: whites
+      notes: optional
+  - clove:
+    - amount: 4
+X-garnish: Garnish with a twist of lemon (expressed and discarded) and a sprig of thyme.
+X-serve-in: old fashioned glass
+steps:
+  - step:
+      Remove the leaves from a sprig of thyme and add to a shaker.
+  - step:
+      Muddle the thyme.
+  - step:
+      Add the rest of the ingredients.
+  - step:
+      If you have added the egg whites, dry shake.
+  - step:
+      Add ice to the shaker and shake.
+  - step:
+      Strain into an ice-filled old fashioned glass.
+source_url: https://www.diffordsguide.com/cocktails/recipe/4597/thyme-will-tell-sour
+notes:
+  - A cozy fall cocktail.
