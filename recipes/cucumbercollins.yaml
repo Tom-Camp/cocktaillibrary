@@ -1,0 +1,25 @@
+recipe_name: Cucumber Collins
+ingredients:
+  - gin:
+    - amount: 2
+      unit: ounce
+  - simple syrup:
+    - amount: 1
+      unit: ounce
+  - lemon:
+    - amount: 1
+      unit: ounce
+      processing: freshly squeezed juice
+  - cucumber:
+    - amount: 4
+      unit: slices
+  - club soda:
+X-garnish: Garnish with a sprig of mint.
+X-serve-in: cocktail glass
+steps:
+  - step:
+      In the bottom of a mixing glass, muddle cucumber slices, lemon juice and simple syrup.
+  - step:
+      Add gin, along with ice, and shake.
+  - step:
+      Strain over fresh ice into a Collins glass, then top with soda.

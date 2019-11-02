@@ -1,10 +1,10 @@
 # Open Recipe Cocktail Library
 
-A collection of cocktail recipes in the [Open Recipe Format](https://open-recipe-format.readthedocs.io/en/latest/index.html){:target="_blank"}.
+A collection of cocktail recipes in the [Open Recipe Format](https://open-recipe-format.readthedocs.io/en/latest/index.html).
 
 ## Prerequisites
 
-You will need to know a few cocktail recipes and you can look up YAML on [DuckDuckGo](https://duckduckgo.com/?q=yaml&t=h_&ia=web){:target="_blank"}.
+You will need to know a few cocktail recipes and you can look up YAML on [DuckDuckGo](https://duckduckgo.com/?q=yaml&t=h_&ia=web).
 
 ## Contributing
 
