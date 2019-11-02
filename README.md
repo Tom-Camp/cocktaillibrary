@@ -20,4 +20,4 @@ Mix cocktails and then test them. Cheers!
 
 ## License
 
-This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details
