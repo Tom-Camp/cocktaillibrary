@@ -8,7 +8,7 @@ You will need to know a few cocktail recipes and you can look up YAML on [DuckDu
 
 ## Contributing
 
-Create recipes. Create pull requests. Grow the library.
+Create recipes and place them in the `recipe` directory. Create pull requests. Grow the library.
 
 ## Running tests
 

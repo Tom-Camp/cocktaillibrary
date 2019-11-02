@@ -8,7 +8,7 @@ ingredients:
       unit: sprig
   - egg:
     - amount: 1
-      processing: whites
+      processing: white
       notes: optional
   - clove:
     - amount: 4
