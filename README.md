@@ -14,6 +14,10 @@ Create recipes and place them in the `recipe` directory. Create pull requests. G
 
 Mix cocktails and then test them. Cheers!
 
+## Updating the index
+
+Updating the index requires `Python 3`, other than that simply `cd` into the root directory and run `./createindex.py`. The script will read all of the _yaml_ files within the _recipes_ directory and list them on the `index.md` file.
+
 ## Authors
 
 * **Tom Camp** - *Initial work* - [Tom-Camp](https://github.com/Tom-Camp)
