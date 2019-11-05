@@ -3,10 +3,10 @@ ingredients:
   - [INGREDIENT NAME]:
     amounts:
       - amount: # A decimal value for the amount.
-        unit: # ounce, shot, gill, dram, etc.
-        processing: # Strained, sliced, diced, whites, etc.
-        substitutions: # List ingredient that you can use as a substitute for this                  drink. This item can have the same fields as the i                         ingredient; amount, unit, processing, notes, etc.
-        notes: 
+    unit: # ounce, shot, gill, dram, etc.
+    processing: # Strained, sliced, diced, whites, etc.
+    substitutions: # List ingredient that you can use as a substitute for this                  drink. This item can have the same fields as the i                         ingredient; amount, unit, processing, notes, etc.
+    notes:
           - # Add notes for this ingredient
 source_url: # A URL for the recipe
 source_book: # If this is from a book, add the info here
