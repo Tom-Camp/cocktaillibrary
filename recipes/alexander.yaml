@@ -1,12 +1,16 @@
-recipe_name: After Dinner (Special) Cocktail
+recipe_name: Alexander Cocktail (No. 1)
 ingredients:
-  - apricot brandy:
+  - dry gin:
     amounts:
       - amount: 50
         unit: milliliter
-  - curaçao:
+  - creme de cacao:
     amounts:
-      - amount: 50
+      - amount: 25
+        unit: milliliter
+  - sweet cream:
+    amounts:
+      - amount: 25
         unit: milliliter
 X-type: cocktail
 X-servein: cocktail glass

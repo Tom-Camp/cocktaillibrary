@@ -1,13 +1,17 @@
-recipe_name: After Dinner (Special) Cocktail
+recipe_name: Alice Mine Cocktail
 ingredients:
-  - apricot brandy:
+  - italian vermouth:
     amounts:
       - amount: 50
         unit: milliliter
-  - curaçao:
+  - russian kummel:
     amounts:
       - amount: 50
         unit: milliliter
+  - scotch:
+    amounts:
+      - amount: 2
+        unit: dash
 X-type: cocktail
 X-servein: cocktail glass
 source_book:

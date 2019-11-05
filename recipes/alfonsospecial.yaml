@@ -1,13 +1,25 @@
-recipe_name: After Dinner (Special) Cocktail
+recipe_name: Alfonso (Special) Cocktail
 ingredients:
-  - apricot brandy:
+  - dry gin:
+    amounts:
+      - amount: 25
+        unit: milliliter
+  - french vermouth:
+    amounts:
+      - amount: 25
+        unit: milliliter
+  - grand marnier:
     amounts:
       - amount: 50
         unit: milliliter
-  - curaçao:
+  - angostura bitters:
     amounts:
-      - amount: 50
-        unit: milliliter
+      - amount: 1
+        unit: dash
+  - italian vermouth:
+    amounts:
+      - amount: 4
+        unit: dash
 X-type: cocktail
 X-servein: cocktail glass
 source_book:

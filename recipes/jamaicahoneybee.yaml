@@ -1,15 +1,18 @@
 recipe_name: Jamaica Honey Bee
 ingredients:
   - amber rum:
-    - amount: 2
-      unit: ounce
+    amounts:
+      - amount: 2
+        unit: ounce
   - honey syrup:
-    - amount: .75
-      unit: ounce
+    amounts:
+      - amount: .75
+        unit: ounce
   - lemon:
-    - amount: .75
-      unit: ounce
-      processing: juiced
+    amounts:
+      - amount: .75
+        unit: ounce
+    processing: juiced
 X-type: cocktail
 X-garnish: Garnish with a lemon wheel.
 X-serve-in: cocktail glass

@@ -1,13 +1,18 @@
-recipe_name: After Dinner (Special) Cocktail
+recipe_name: Allen (Special) Cocktail
 ingredients:
-  - apricot brandy:
+  - maraschino liqueur:
+  - dry gin:
     amounts:
       - amount: 50
         unit: milliliter
-  - curaçao:
+  - french vermouth:
     amounts:
       - amount: 50
         unit: milliliter
+  - kummel:
+    amounts:
+      - amount: 2
+        unit: dash
 X-type: cocktail
 X-servein: cocktail glass
 source_book:

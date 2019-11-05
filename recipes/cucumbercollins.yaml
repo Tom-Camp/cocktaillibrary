@@ -1,18 +1,22 @@
 recipe_name: Cucumber Collins
 ingredients:
   - gin:
-    - amount: 2
-      unit: ounce
+    amounts:
+      - amount: 2
+        unit: ounce
   - simple syrup:
-    - amount: 1
-      unit: ounce
+    amounts:
+      - amount: 1
+        unit: ounce
   - lemon:
-    - amount: 1
-      unit: ounce
-      processing: freshly squeezed juice
+    amounts:
+      - amount: 1
+        unit: ounce
+    processing: freshly squeezed juice
   - cucumber:
-    - amount: 4
-      unit: slices
+    amounts:
+      - amount: 4
+        unit: slices
   - club soda:
 X-type: cocktail
 X-garnish: Garnish with a sprig of mint.

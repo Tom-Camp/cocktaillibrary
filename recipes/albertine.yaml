@@ -1,13 +1,23 @@
-recipe_name: After Dinner (Special) Cocktail
+recipe_name: Albertine Cocktail
 ingredients:
-  - apricot brandy:
+  - kirsch:
     amounts:
-      - amount: 50
-        unit: milliliter
-  - curaçao:
+      - amount: 2
+        unit: glass
+  - cointreau:
     amounts:
-      - amount: 50
-        unit: milliliter
+      - amount: 2
+        unit: glass
+  - chartreuse:
+    amounts:
+      - amount: 2
+        unit: glass
+  - maraschino liqueur:
+    amounts:
+      - amount: 3
+        unit: dash
+notes:
+  - This recipe makes 6 drinks!
 X-type: cocktail
 X-servein: cocktail glass
 source_book:

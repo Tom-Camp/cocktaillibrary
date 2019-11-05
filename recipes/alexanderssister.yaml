@@ -1,12 +1,16 @@
-recipe_name: After Dinner (Special) Cocktail
+recipe_name: Alexander's Sister Cocktail
 ingredients:
-  - apricot brandy:
+  - gin:
     amounts:
-      - amount: 50
+      - amount: 33
         unit: milliliter
-  - curaçao:
+  - cream:
     amounts:
-      - amount: 50
+      - amount: 33
+        unit: milliliter
+  - creme de menthe:
+    amounts:
+      - amount: 33
         unit: milliliter
 X-type: cocktail
 X-servein: cocktail glass

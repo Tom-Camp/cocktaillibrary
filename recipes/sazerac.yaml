@@ -1,20 +1,25 @@
 recipe_name: Sazerac
 ingredients:
   - rye whiskey:
-    - amount: 2.5
-      unit: ounce
+    amounts:
+      - amount: 2.5
+        unit: ounce
   - absinthe:
-    - amount: 2
-      unit: dash
+    amounts:
+      - amount: 2
+        unit: dash
   - angostora bitters:
-    - amount: 1
-      unit: dash
+    amounts:
+      - amount: 1
+        unit: dash
   - peychaud bitters:
-    - amount: 2
-      unit: dash
+    amounts:
+      - amount: 2
+        unit: dash
   - sugar syrup:
-    - amount: 1
-      unit: teaspoon
+    amounts:
+      - amount: 1
+        unit: teaspoon
 X-type: cocktail
 X-garnish: Garnish with a twist of orange.
 X-serve-in: old fashioned glass

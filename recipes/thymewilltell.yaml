@@ -1,15 +1,19 @@
 recipe_name: Thyme Will Tell Sour
 ingredients:
   - bourbon whiskey:
-    - amount: 2
-      unit: ounce
+    amounts:
+      - amount: 2
+        unit: ounce
   - thyme:
-    - amount: 2
-      unit: sprig
+    amounts:
+      - amount: 2
+        unit: sprig
   - egg:
-    - amount: 1
-      processing: white
-      notes: optional
+    amounts:
+      - amount: 1
+    processing: white
+    notes:
+      - optional
   - clove:
     - amount: 4
 X-type: cocktail

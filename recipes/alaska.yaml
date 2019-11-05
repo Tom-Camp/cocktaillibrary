@@ -1,12 +1,12 @@
-recipe_name: After Dinner (Special) Cocktail
+recipe_name: Alaska Cocktail
 ingredients:
-  - apricot brandy:
+  - dry gin:
     amounts:
-      - amount: 50
+      - amount: 75
         unit: milliliter
-  - curaçao:
+  - yellow chartreuse:
     amounts:
-      - amount: 50
+      - amount: 25
         unit: milliliter
 X-type: cocktail
 X-servein: cocktail glass

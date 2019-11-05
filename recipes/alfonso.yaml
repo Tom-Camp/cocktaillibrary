@@ -1,0 +1,42 @@
+recipe_name: Alfonso Cocktail
+ingredients:
+  - dubonnet:
+    amounts:
+      - amount: 1
+        unit: ounce
+  - secrestat bitters:
+    amounts:
+      - amount: 2
+        unit: dash
+  - champagne
+  - sugar:
+    amounts:
+      - amount: 1
+        unit: cube
+    substitutions:
+      - simple syrup:
+        amounts:
+          - amount: 1
+            unit: teaspoon
+X-type: cocktail
+X-garnish: lemon twist
+X-servein: wine glass
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Put 1 lump of sugar in a medium-sized wine glass.
+  - step:
+      2 dashes of Secrestat Bitters poured on to the sugar.
+  - step:
+      Add 1 lump of ice.
+  - step:
+      Add 1/4 of a glass of Dubonnet.
+  - step:
+      Fill remainder of glass with champagne.
+  - step:
+      Squeeze lemon twist on top and stir.
