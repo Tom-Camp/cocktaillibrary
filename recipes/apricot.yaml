@@ -1,0 +1,39 @@
+recipe_name: Apricot Cocktail
+ingredients:
+  - apricot:
+    amounts:
+      - amount: 2
+    processing: cut in half
+  - cognac:
+    amounts:
+      - amount: 1.5
+        unit: glass
+  - peach bitters:
+    amounts:
+      - amount: 2
+        unit: teaspoon
+  - gin:
+    amounts:
+      - amount: 2
+        unit: glass
+  - french vermouth:
+    amounts:
+      - amount: 2
+        unit: glass
+notes:
+  - Serves 6 people.
+X-type: cocktail
+X-servein: cocktail glass
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Cut 2 apricots in half, break the stones and let the whole soak for 2 hours in a glass and a half of cognac.
+  - step:
+      Add 2 teaspoons of peach bitters, 2 glass of gin and 2 glasses of french vermouth.
+  - step:
+      Shake well and strain into cocktail glasses.
