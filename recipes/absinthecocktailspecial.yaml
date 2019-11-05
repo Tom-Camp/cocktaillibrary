@@ -1,0 +1,31 @@
+recipe_name: Absinthe Special Cocktail
+ingredients:
+  - absinthe:
+    - amount: 66
+      unit: milliliter
+  - gin:
+    - amount: 17
+      unit: milliliter
+  - syrup of anisette:
+    - amount: 17
+      unit: milliliter
+      substitutions: gomme syrup
+  - orange bitters:
+    - amount: 1
+      unit: dash
+  - angostura bitters:
+    - amount: 1
+      unit: dash
+X-type: cocktail
+X-servein: cocktail glass
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - note: All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Add all ingredients to a mixing glass with ice.
+  - step:
+      Shake vigorously and strain into a cocktail glass.

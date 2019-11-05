@@ -18,6 +18,7 @@ ingredients:
     - amount: 1
       processing: white
       notes: optional
+X-type: cocktail
 X-garnish: Garnish with a twist of lemon
 X-serve-in: cocktail glass
 steps:

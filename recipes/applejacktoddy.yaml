@@ -8,6 +8,7 @@ ingredients:
       unit: teaspoon
   - clove:
     - amount: 4
+X-type: toddy
 X-garnish: Garnish with a cinnamon stick.
 X-serve-in: toddy glass
 steps:

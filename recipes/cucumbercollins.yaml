@@ -14,6 +14,7 @@ ingredients:
     - amount: 4
       unit: slices
   - club soda:
+X-type: cocktail
 X-garnish: Garnish with a sprig of mint.
 X-serve-in: cocktail glass
 steps:

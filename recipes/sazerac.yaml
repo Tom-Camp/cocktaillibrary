@@ -15,6 +15,7 @@ ingredients:
   - sugar syrup:
     - amount: 1
       unit: teaspoon
+X-type: cocktail
 X-garnish: Garnish with a twist of orange.
 X-serve-in: old fashioned glass
 steps:

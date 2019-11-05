@@ -12,6 +12,7 @@ ingredients:
       notes: optional
   - clove:
     - amount: 4
+X-type: cocktail
 X-garnish: Garnish with a twist of lemon (expressed and discarded) and a sprig of thyme.
 X-serve-in: old fashioned glass
 steps:
