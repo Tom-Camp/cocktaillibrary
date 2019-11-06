@@ -23,7 +23,8 @@ for file in files:
 
 f = open('index.md', mode='w')
 f.write('## Index\n')
-for key, value in file_index.items():
+
+for key, value in sorted(file_index.items()):
     f.write('## {}\n'.format(str(key).upper()))
     f.write('|||\n|-|-|\n')
     offset = math.ceil(len(value) / 2)

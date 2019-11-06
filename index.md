@@ -21,14 +21,6 @@
 | [Alice Mine Cocktail](recipes/alicemine.yaml) | [Alexander Cocktail (No. 2)](recipes/alexander2.yaml) |
 | [Astoria Cocktail](recipes/astoria.yaml) | [Aviation Cocktail](recipes/aviation.yaml) |
 | [Alexander Cocktail (No. 1)](recipes/alexander.yaml) | []() |
-## J
-|||
-|-|-|
-| [Jamaica Honey Bee](recipes/jamaicahoneybee.yaml) | []() |
-## S
-|||
-|-|-|
-| [Sazerac](recipes/sazerac.yaml) | []() |
 ## B
 |||
 |-|-|
@@ -38,6 +30,14 @@
 |||
 |-|-|
 | [Cucumber Collins](recipes/cucumbercollins.yaml) | []() |
+## J
+|||
+|-|-|
+| [Jamaica Honey Bee](recipes/jamaicahoneybee.yaml) | []() |
+## S
+|||
+|-|-|
+| [Sazerac](recipes/sazerac.yaml) | []() |
 ## T
 |||
 |-|-|
