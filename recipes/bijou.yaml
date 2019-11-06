@@ -1,0 +1,33 @@
+recipe_name: Bijou Cocktail
+ingredients:
+  - plymouth gin:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - green chartreuse:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - italian vermouth:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - orange bitters:
+    amounts:
+      - amount: 1
+        unit: dash
+X-type: cocktail
+X-servein: cocktail glass
+X-garnish: cherry or olive, and a lemon twist
+X-ratio: "1:1:1"
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Add all ingredients to a mixing glass with ice.
+  - step:
+      Mix well and strain into a cocktail glass.

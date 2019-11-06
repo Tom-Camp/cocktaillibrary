@@ -24,12 +24,17 @@
 ## B
 |||
 |-|-|
-| [Alice Mine Cocktail](recipes/barneybarnato.yaml) | [Barton Special Cocktail](recipes/bartonspecial.yaml) |
-| [Bennett Cocktail](recipes/bennett.yaml) | [Barbara Cocktail](recipes/barbara.yaml) |
-| [The Barbary Coast Cocktail](recipes/barbarycoast.yaml) | [Bentley Cocktail](recipes/bentley.yaml) |
-| [Baron Cocktail](recipes/baron.yaml) | [Bass Wyatt Cocktail](recipes/basswyatt.yaml) |
+| [Between-the-Sheets Cocktail](recipes/betweenthesheets.yaml) | [Barton Special Cocktail](recipes/bartonspecial.yaml) |
+| [Biltong Dry Cocktail](recipes/biltondry.yaml) | [Barbara Cocktail](recipes/barbara.yaml) |
+| [Alice Mine Cocktail](recipes/barneybarnato.yaml) | [Bentley Cocktail](recipes/bentley.yaml) |
+| [Bennett Cocktail](recipes/bennett.yaml) | [Bich's Special Cocktail](recipes/bichsspecial.yaml) |
+| [The Barbary Coast Cocktail](recipes/barbarycoast.yaml) | [Bass Wyatt Cocktail](recipes/basswyatt.yaml) |
+| [Biffy Cocktail](recipes/biffy.yaml) | [Black Velvet](recipes/blackvelvet.yaml) |
+| [Baron Cocktail](recipes/baron.yaml) | [Bijou Cocktail](recipes/bijou.yaml) |
 | [Balm Cocktail](recipes/balm.yaml) | [Babbie's Special Cocktail](recipes/babbiesspecial.yaml) |
-| [Bacardi Special Cocktail](recipes/bacardispecial.yaml) | [Belmont Cocktail](recipes/belmont.yaml) |
+| [Biter Cocktail](recipes/biter.yaml) | [Berry Wall Cocktail](recipes/berrywall.yaml) |
+| [Big Boy Cocktail](recipes/bigboy.yaml) | [Belmont Cocktail](recipes/belmont.yaml) |
+| [Bacardi Special Cocktail](recipes/bacardispecial.yaml) | []() |
 ## C
 |||
 |-|-|
