@@ -26,7 +26,7 @@
 |-|-|
 | [Between-the-Sheets Cocktail](recipes/betweenthesheets.yaml) | [Barton Special Cocktail](recipes/bartonspecial.yaml) |
 | [Biltong Dry Cocktail](recipes/biltondry.yaml) | [Barbara Cocktail](recipes/barbara.yaml) |
-| [Alice Mine Cocktail](recipes/barneybarnato.yaml) | [Bentley Cocktail](recipes/bentley.yaml) |
+| [Barney Barnato Cocktail](recipes/barneybarnato.yaml) | [Bentley Cocktail](recipes/bentley.yaml) |
 | [Bennett Cocktail](recipes/bennett.yaml) | [Bich's Special Cocktail](recipes/bichsspecial.yaml) |
 | [The Barbary Coast Cocktail](recipes/barbarycoast.yaml) | [Bass Wyatt Cocktail](recipes/basswyatt.yaml) |
 | [Biffy Cocktail](recipes/biffy.yaml) | [Black Velvet](recipes/blackvelvet.yaml) |
