@@ -1,10 +1,11 @@
 ## A
 |||
 |-|-|
-| [Absinthe (Special) Cocktail](recipes/absinthecocktailspecial.yaml) | [Apple Jack (Special) Cocktail](recipes/applejackspecial.yaml) |
-| [Absinthe Cocktail](recipes/absinthecocktail.yaml) | [Apple Jack Cocktail](recipes/applejack.yaml) |
-| [Absinthe Drip Cocktail](recipes/absinthedrinkcocktail.yaml) | [Apple Pie Cocktail](recipes/applepie.yaml) |
-| [Addington Cocktail](recipes/addington.yaml) | [Apple Star Toddy](recipes/applestar.yaml) |
+| [Absinthe (Special) Cocktail](recipes/absinthecocktailspecial.yaml) | [Apple Cocktail](recipes/apple.yaml) |
+| [Absinthe Cocktail](recipes/absinthecocktail.yaml) | [Apple Jack (Special) Cocktail](recipes/applejackspecial.yaml) |
+| [Absinthe Drip Cocktail](recipes/absinthedrinkcocktail.yaml) | [Apple Jack Cocktail](recipes/applejack.yaml) |
+| [Addington Cocktail](recipes/addington.yaml) | [Apple Pie Cocktail](recipes/applepie.yaml) |
+| [Affinity Cocktail](recipes/affinity.yaml) | [Apple Star Toddy](recipes/applestar.yaml) |
 | [After Dinner (Special) Cocktail](recipes/afterdinnerspecial.yaml) | [Applejack Toddy](recipes/applejacktoddy.yaml) |
 | [After Dinner Cocktail](recipes/afterdinner.yaml) | [Approve Cocktail](recipes/approve.yaml) |
 | [After Dinner Special Cocktail](recipes/aftersupper.yaml) | [Apricot Cocktail](recipes/apricot.yaml) |
@@ -16,10 +17,9 @@
 | [Alfonso (Special) Cocktail](recipes/alfonsospecial.yaml) | [Atty Cocktail](recipes/atty.yaml) |
 | [Alfonso Cocktail](recipes/alfonso.yaml) | [Aviation Cocktail](recipes/aviation.yaml) |
 | [Alice Mine Cocktail](recipes/alicemine.yaml) | [The Abbey Cocktail](recipes/abbeycocktail.yaml) |
-| [Allen (Special) Cocktail](recipes/allenspecial.yaml) | [The Adonis Cocktail](recipes/affinity.yaml) |
-| [Allen (Special) Cocktail](recipes/allies.yaml) | [The Adonis Cocktail](recipes/adonis.yaml) |
-| [Appetizer Cocktail](recipes/appetizer.yaml) | [The Apple Jack Rabbit Cocktail](recipes/applejackrabbit.yaml) |
-| [Apple Cocktail](recipes/apple.yaml) | []() |
+| [Allen (Special) Cocktail](recipes/allenspecial.yaml) | [The Adonis Cocktail](recipes/adonis.yaml) |
+| [Allen (Special) Cocktail](recipes/allies.yaml) | [The Apple Jack Rabbit Cocktail](recipes/applejackrabbit.yaml) |
+| [Appetizer Cocktail](recipes/appetizer.yaml) | []() |
 ## B
 |||
 |-|-|
