@@ -1,32 +1,36 @@
-recipe_name: Balm Cocktail
+recipe_name: Bass Wyatt Cocktail
 ingredients:
-  - orange:
+  - egg:
+    amounts:
+      - amount: 4
+  - dry gin:
+    amounts:
+      - amount: 4
+        unit: glass
+  - cherry brandy:
+    amounts:
+      - amount: .5
+        unit: glass
+    substitutions:
+      - curaçao
+  - lemon:
     amounts:
       - amount: .5
         unit: glass
     processing: juice
-  - cointreau:
+  - powdered sugar:
     amounts:
       - amount: .5
-        unit: glass
-  - sherry:
+        unit: tablespoon
+  - vanilla extract:
     amounts:
-      - amount: 3
-        unit: glass
-  - orange bitters:
-    amounts:
-      - amount: 1
-        unit: dash
-  - pimento dram liqueur:
-    amounts:
-      - amount: 2
-        unit: dash
+      - amount: .5
+        unit: tablespoon
 notes:
-  - serves 6
+  - Serves 5
 X-type: cocktail
-X-servein: cocktail glass
-X-garnish: olive
-X-ratio: "1:1:6"
+X-servein: medium-sized glass
+X-garnish: grated nutmeg
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book
@@ -35,6 +39,8 @@ source_book:
     - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
 steps:
   - step:
-      Add all ingredients to a shaker with ice.
+      Beat up 4 eggs
   - step:
-      Shake well and strain into a cocktail glass.
+      Add all of the ingredients to a shaker.
+  - step:
+      Strain into medium-sized glass with sugared rim.

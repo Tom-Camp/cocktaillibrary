@@ -24,8 +24,12 @@
 ## B
 |||
 |-|-|
+| [Alice Mine Cocktail](recipes/barneybarnato.yaml) | [Barton Special Cocktail](recipes/bartonspecial.yaml) |
+| [Bennett Cocktail](recipes/bennett.yaml) | [Barbara Cocktail](recipes/barbara.yaml) |
+| [The Barbary Coast Cocktail](recipes/barbarycoast.yaml) | [Bentley Cocktail](recipes/bentley.yaml) |
+| [Baron Cocktail](recipes/baron.yaml) | [Bass Wyatt Cocktail](recipes/basswyatt.yaml) |
 | [Balm Cocktail](recipes/balm.yaml) | [Babbie's Special Cocktail](recipes/babbiesspecial.yaml) |
-| [Bacardi Special Cocktail](recipes/bacardispecial.yaml) | []() |
+| [Bacardi Special Cocktail](recipes/bacardispecial.yaml) | [Belmont Cocktail](recipes/belmont.yaml) |
 ## C
 |||
 |-|-|

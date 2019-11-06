@@ -1,26 +1,24 @@
-recipe_name: Absinthe Cocktail
+recipe_name: The Barbary Coast Cocktail
 ingredients:
-  - absinthe:
+  - gin:
     amounts:
-      - amount: 50
+      - amount: 25
         unit: milliliter
-  - water:
+  - scotch whisky:
     amounts:
-      - amount: 50
+      - amount: 25
         unit: milliliter
-  - syrup:
-      amounts:
-      - amount: 1
-        unit: dash
-    notes:
-      - This is assumed to be simple syrup.
-  - angostura bitters:
+  - creme de cacao:
     amounts:
-      - amount: 1
-        unit: dash
-X-servein: cocktail glass
+      - amount: 25
+        unit: milliliter
+  - cream:
+    amounts:
+      - amount: 25
+        unit: milliliter
 X-type: cocktail
-X-ratio: "1:1"
+X-servein: highball glass
+X-ratio: "1:1:1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book
@@ -29,6 +27,6 @@ source_book:
     - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
 steps:
   - step:
-      Add all ingredients to a shaker with ice.
+      Add all ingredients to a shaker with crushed ice.
   - step:
-      Shake vigorously and strain into a cocktail glass.
+      Shake well and pour into a highball glass.

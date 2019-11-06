@@ -1,26 +1,21 @@
-recipe_name: Absinthe Cocktail
+recipe_name: Bennett Cocktail
 ingredients:
-  - absinthe:
+  - dry gin:
     amounts:
-      - amount: 50
+      - amount: 75
         unit: milliliter
-  - water:
+  - lime:
     amounts:
-      - amount: 50
+      - amount: 25
         unit: milliliter
-  - syrup:
-      amounts:
-      - amount: 1
-        unit: dash
-    notes:
-      - This is assumed to be simple syrup.
+    processing: juice
   - angostura bitters:
     amounts:
-      - amount: 1
+      - amount: 2
         unit: dash
-X-servein: cocktail glass
 X-type: cocktail
-X-ratio: "1:1"
+X-servein: cocktail glass
+X-ratio: "3:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book
@@ -31,4 +26,4 @@ steps:
   - step:
       Add all ingredients to a shaker with ice.
   - step:
-      Shake vigorously and strain into a cocktail glass.
+      Shake well and strain into a cocktail glass.

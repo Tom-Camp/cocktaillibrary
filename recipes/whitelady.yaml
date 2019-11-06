@@ -8,7 +8,8 @@ ingredients:
     amounts:
       - amount: .75
         unit: ounce
-    substitute: orange liqueur
+    substitutions:
+      - orange liqueur
   - lemon:
     amounts:
       - amount: .75
