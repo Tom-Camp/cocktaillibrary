@@ -18,7 +18,8 @@ ingredients:
     - amount: 4
 X-type: cocktail
 X-garnish: Garnish with a twist of lemon (expressed and discarded) and a sprig of thyme.
-X-serve-in: old fashioned glass
+X-servein: old fashioned glass
+
 steps:
   - step:
       Remove the leaves from a sprig of thyme and add to a shaker.

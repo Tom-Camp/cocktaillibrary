@@ -19,6 +19,7 @@ ingredients:
         unit: dash
 X-servein: cocktail glass
 X-type: cocktail
+X-ratio: "2:1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

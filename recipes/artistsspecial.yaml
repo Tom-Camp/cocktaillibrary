@@ -1,29 +1,27 @@
-recipe_name: Apple Pie Cocktail
+recipe_name: Artist's (Special) Cocktail
 ingredients:
-  - rum:
+  - whiskey:
     amounts:
-      - amount: 50
+      - amount: 33
         unit: milliliter
-  - italian vermouth:
+  - sherry:
     amounts:
-      - amount: 50
+      - amount: 33
         unit: milliliter
-  - apricot brandy:
-    amounts:
-      - amount: 4
-        unit: dash
-  - grenadine:
-    amounts:
-      - amount: 2
-        unit: dash
   - lemon:
     amounts:
-      - amount: 4
-        unit: dash
+      - amount: 16
+        unit: milliliter
     processing: juice
+  - groseille syrup:
+    amounts:
+      - amount: 16
+        unit: milliliter
+    notes:
+      - https://www.diffordsguide.com/encyclopedia/1197/cocktails/groseille-redcurrant-syrup-how-to-make-and-cocktails
 X-type: cocktail
 X-servein: cocktail glass
-X-ratio: "1:1"
+X-ratio: "2:2:1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

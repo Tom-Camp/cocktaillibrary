@@ -1,29 +1,21 @@
-recipe_name: Apple Pie Cocktail
+recipe_name: Astoria Cocktail
 ingredients:
-  - rum:
+  - gin:
     amounts:
-      - amount: 50
+      - amount: 66
         unit: milliliter
-  - italian vermouth:
+  - french vermouth:
     amounts:
-      - amount: 50
+      - amount: 33
         unit: milliliter
-  - apricot brandy:
+  - orange bitters:
     amounts:
-      - amount: 4
+      - amount: 1
         unit: dash
-  - grenadine:
-    amounts:
-      - amount: 2
-        unit: dash
-  - lemon:
-    amounts:
-      - amount: 4
-        unit: dash
-    processing: juice
 X-type: cocktail
 X-servein: cocktail glass
-X-ratio: "1:1"
+X-garnish: stuffed olive
+X-ratio: "2:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

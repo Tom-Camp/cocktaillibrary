@@ -1,29 +1,24 @@
-recipe_name: Apple Pie Cocktail
+recipe_name: Bacardi Special Cocktail
 ingredients:
-  - rum:
+  - gin:
     amounts:
-      - amount: 50
+      - amount: 33
         unit: milliliter
-  - italian vermouth:
+  - bacardi rum:
     amounts:
-      - amount: 50
+      - amount: 66
         unit: milliliter
-  - apricot brandy:
-    amounts:
-      - amount: 4
-        unit: dash
   - grenadine:
     amounts:
-      - amount: 2
+      - amount: 1
         unit: dash
-  - lemon:
+  - lime:
     amounts:
-      - amount: 4
-        unit: dash
+      - amount: .5
     processing: juice
 X-type: cocktail
 X-servein: cocktail glass
-X-ratio: "1:1"
+X-ratio: "1:2"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

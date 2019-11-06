@@ -12,6 +12,7 @@ ingredients:
 X-type: cocktail
 X-garnish: orange twist
 X-servein: collins glass
+X-ratio: "1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

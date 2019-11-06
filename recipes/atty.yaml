@@ -1,29 +1,24 @@
-recipe_name: Apple Pie Cocktail
+recipe_name: Atty Cocktail
 ingredients:
-  - rum:
+  - dry gin:
     amounts:
-      - amount: 50
+      - amount: 75
         unit: milliliter
-  - italian vermouth:
+  - french vermouth:
     amounts:
-      - amount: 50
+      - amount: 25
         unit: milliliter
-  - apricot brandy:
+  - absinthe:
     amounts:
-      - amount: 4
+      - amount: 3
         unit: dash
-  - grenadine:
+  - creme de voilette:
     amounts:
-      - amount: 2
+      - amount: 3
         unit: dash
-  - lemon:
-    amounts:
-      - amount: 4
-        unit: dash
-    processing: juice
 X-type: cocktail
 X-servein: cocktail glass
-X-ratio: "1:1"
+X-ratio: "3:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

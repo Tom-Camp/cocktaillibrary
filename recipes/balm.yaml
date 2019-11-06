@@ -1,29 +1,32 @@
-recipe_name: Apple Pie Cocktail
+recipe_name: Balm Cocktail
 ingredients:
-  - rum:
+  - orange:
     amounts:
-      - amount: 50
-        unit: milliliter
-  - italian vermouth:
+      - amount: .5
+        unit: glass
+    processing: juice
+  - cointreau:
     amounts:
-      - amount: 50
-        unit: milliliter
-  - apricot brandy:
+      - amount: .5
+        unit: glass
+  - sherry:
     amounts:
-      - amount: 4
+      - amount: 3
+        unit: glass
+  - orange bitters:
+    amounts:
+      - amount: 1
         unit: dash
-  - grenadine:
+  - pimento dram liqueur:
     amounts:
       - amount: 2
         unit: dash
-  - lemon:
-    amounts:
-      - amount: 4
-        unit: dash
-    processing: juice
+notes:
+  - serves 6
 X-type: cocktail
 X-servein: cocktail glass
-X-ratio: "1:1"
+X-garnish: olive
+X-ratio: "1:1:6"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

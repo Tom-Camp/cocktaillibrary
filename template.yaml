@@ -17,7 +17,8 @@ source_book: # If this is from a book, add the info here
     - # Notes regarding this book.
 X-type: # Cocktail type; cocktail, flip, fizz, etc.
 X-garnish: # Garnish directions
-X-serve-in: # The type of glass to serve the drink in.
+X-servein: # The type of glass to serve the drink in.
+X-ratio: # The ratio of the major ingredients; 1:1 or 2:1:1
 steps:
   - step:
       # Use the step to list individual directions to create the drink

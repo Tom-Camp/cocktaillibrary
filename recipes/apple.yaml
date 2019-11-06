@@ -20,6 +20,7 @@ notes:
   - This recipe makes 6 drinks.
 X-type: cocktail
 X-servein: cocktail glass
+X-ratio: "2:1:1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

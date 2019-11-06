@@ -22,7 +22,7 @@ ingredients:
         unit: teaspoon
 X-type: cocktail
 X-garnish: Garnish with a twist of orange.
-X-serve-in: old fashioned glass
+X-servein: old fashioned glass
 steps:
   - step:
       Fill an old fashioned glass with ice and water and set aside.

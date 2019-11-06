@@ -1,29 +1,21 @@
-recipe_name: Apple Pie Cocktail
+recipe_name: Aviation Cocktail
 ingredients:
-  - rum:
+  - dry gin:
     amounts:
-      - amount: 50
+      - amount: 75
         unit: milliliter
-  - italian vermouth:
+  - lemon:
     amounts:
-      - amount: 50
+      - amount: 25
         unit: milliliter
-  - apricot brandy:
-    amounts:
-      - amount: 4
-        unit: dash
-  - grenadine:
+    processing: juice
+  - maraschino liqueur:
     amounts:
       - amount: 2
         unit: dash
-  - lemon:
-    amounts:
-      - amount: 4
-        unit: dash
-    processing: juice
 X-type: cocktail
 X-servein: cocktail glass
-X-ratio: "1:1"
+X-ratio: "3:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

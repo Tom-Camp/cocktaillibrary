@@ -1,29 +1,29 @@
-recipe_name: Apple Pie Cocktail
+recipe_name: Apricot Cocktail (sweet)
 ingredients:
-  - rum:
+  - abricotine:
     amounts:
-      - amount: 50
-        unit: milliliter
-  - italian vermouth:
+      - amount: 1
+        unit: glass
+  - apricot jam:
     amounts:
-      - amount: 50
-        unit: milliliter
-  - apricot brandy:
+      - amount: 1
+        unit: teaspoon
+  - peach bitters:
     amounts:
-      - amount: 4
-        unit: dash
-  - grenadine:
+      - amount: 1
+        unit: teaspoon
+  - gin:
     amounts:
       - amount: 2
-        unit: dash
-  - lemon:
+        unit: glass
+  - french vermouth:
     amounts:
-      - amount: 4
-        unit: dash
-    processing: juice
+      - amount: 2.5
+        unit: glass
+notes:
+  - Serves 6 people.
 X-type: cocktail
 X-servein: cocktail glass
-X-ratio: "1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book
@@ -32,6 +32,8 @@ source_book:
     - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
 steps:
   - step:
-      Add all ingredients to a mixing glass with ice.
+      Add all of the ingredients in a shaker a chill.
   - step:
-      Shake well and strain into a cocktail glass.
+      Once chilled, add crushed ice and shake well.
+  - step:
+      Shake well and strain into cocktail glasses.

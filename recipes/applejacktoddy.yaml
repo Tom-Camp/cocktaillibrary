@@ -13,7 +13,7 @@ ingredients:
       - amount: 4
 X-type: toddy
 X-garnish: Garnish with a cinnamon stick.
-X-serve-in: toddy glass
+X-servein: toddy glass
 steps:
   - step:
       Add all of the ingredients to a toddy glass.

@@ -15,7 +15,8 @@ ingredients:
     processing: juiced
 X-type: cocktail
 X-garnish: Garnish with a lemon wheel.
-X-serve-in: cocktail glass
+X-servein: cocktail glass
+X-ratio: "8:3:3"
 steps:
   - step:
       Mix all of the ingredients in a shaker.

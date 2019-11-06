@@ -16,7 +16,7 @@ ingredients:
     processing: juiced
   - simple syrup:
     amounts:
-      - amount: .33
+      - amount: .38
         unit: ounce
   - egg:
     amounts:
@@ -26,7 +26,8 @@ ingredients:
       - optional
 X-type: cocktail
 X-garnish: Garnish with a twist of lemon
-X-serve-in: cocktail glass
+X-servein: cocktail glass
+X-ratio: "4:2:2:1"
 steps:
   - step:
       Add all of the ingredients to a shaker.

@@ -2,21 +2,25 @@
 ## A
 |||
 |-|-|
-| [Alfonso (Special) Cocktail](recipes/alfonsospecial.yaml) | [Alice Mine Cocktail](recipes/alicemine.yaml) |
-| [Approve Cocktail](recipes/approve.yaml) | [Alexander Cocktail (No. 1)](recipes/alexander.yaml) |
-| [The Abbey Cocktail](recipes/abbeycocktail.yaml) | [The Apple Jack Rabbit Cocktail](recipes/applejackrabbit.yaml) |
-| [After Dinner (Special) Cocktail](recipes/afterdinnerspecial.yaml) | [Absinthe (Special) Cocktail](recipes/absinthecocktailspecial.yaml) |
-| [Apple Pie Cocktail](recipes/applepie.yaml) | [The Adonis Cocktail](recipes/adonis.yaml) |
+| [Alfonso (Special) Cocktail](recipes/alfonsospecial.yaml) | [The Apple Jack Rabbit Cocktail](recipes/applejackrabbit.yaml) |
+| [Approve Cocktail](recipes/approve.yaml) | [Absinthe (Special) Cocktail](recipes/absinthecocktailspecial.yaml) |
+| [The Abbey Cocktail](recipes/abbeycocktail.yaml) | [Artist's (Special) Cocktail](recipes/artistsspecial.yaml) |
+| [After Dinner (Special) Cocktail](recipes/afterdinnerspecial.yaml) | [The Adonis Cocktail](recipes/adonis.yaml) |
+| [Apple Pie Cocktail](recipes/applepie.yaml) | [Apricot Cocktail (sweet)](recipes/apricotsweet.yaml) |
 | [Addington Cocktail](recipes/addington.yaml) | [Applejack Toddy](recipes/applejacktoddy.yaml) |
 | [Apple Jack (Special) Cocktail](recipes/applejackspecial.yaml) | [Apricot Cocktail](recipes/apricot.yaml) |
 | [Apple Star Toddy](recipes/applestar.yaml) | [Alfonso Cocktail](recipes/alfonso.yaml) |
 | [Alaska Cocktail](recipes/alaska.yaml) | [Absinthe Drip Cocktail](recipes/absinthedrinkcocktail.yaml) |
 | [Apple Cocktail](recipes/apple.yaml) | [Appetizer Cocktail](recipes/appetizer.yaml) |
 | [Apple Jack Cocktail](recipes/applejack.yaml) | [Albertine Cocktail](recipes/albertine.yaml) |
-| [Allen (Special) Cocktail](recipes/allenspecial.yaml) | [Absinthe Cocktail](recipes/absinthecocktail.yaml) |
-| [Alexander's Sister Cocktail](recipes/alexanderssister.yaml) | [After Dinner Special Cocktail](recipes/aftersupper.yaml) |
+| [Artillery Cocktail](recipes/artillerycocktail.yaml) | [Absinthe Cocktail](recipes/absinthecocktail.yaml) |
+| [Allen (Special) Cocktail](recipes/allenspecial.yaml) | [After Dinner Special Cocktail](recipes/aftersupper.yaml) |
+| [Alexander's Sister Cocktail](recipes/alexanderssister.yaml) | [Atta Boy Cocktail](recipes/attaboy.yaml) |
 | [The Adonis Cocktail](recipes/affinity.yaml) | [After Dinner Cocktail](recipes/afterdinner.yaml) |
-| [Allen (Special) Cocktail](recipes/allies.yaml) | [Alexander Cocktail (No. 2)](recipes/alexander2.yaml) |
+| [Allen (Special) Cocktail](recipes/allies.yaml) | [Atty Cocktail](recipes/atty.yaml) |
+| [Alice Mine Cocktail](recipes/alicemine.yaml) | [Alexander Cocktail (No. 2)](recipes/alexander2.yaml) |
+| [Astoria Cocktail](recipes/astoria.yaml) | [Aviation Cocktail](recipes/aviation.yaml) |
+| [Alexander Cocktail (No. 1)](recipes/alexander.yaml) | []() |
 ## J
 |||
 |-|-|
@@ -25,6 +29,11 @@
 |||
 |-|-|
 | [Sazerac](recipes/sazerac.yaml) | []() |
+## B
+|||
+|-|-|
+| [Balm Cocktail](recipes/balm.yaml) | [Babbie's Special Cocktail](recipes/babbiesspecial.yaml) |
+| [Bacardi Special Cocktail](recipes/bacardispecial.yaml) | []() |
 ## C
 |||
 |-|-|
