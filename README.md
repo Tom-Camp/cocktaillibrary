@@ -1,6 +1,8 @@
 # Open Recipe Cocktail Library
 
-A collection of cocktail recipes in the [Open Recipe Format](https://open-recipe-format.readthedocs.io/en/latest/index.html). There is an [index](index.md) of recipes [here](index.md).
+A collection of cocktail recipes in the [Open Recipe Format](https://open-recipe-format.readthedocs.io/en/latest/index.html). 
+
+### View all of the recipes in the [index](index.md).
 
 ## Prerequisites
 
