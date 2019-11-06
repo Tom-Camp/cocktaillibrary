@@ -22,9 +22,9 @@ for file in files:
     read_recipes(file)
 
 f = open('index.md', mode='w')
-f.write('## Index\n')
 
 for key, value in sorted(file_index.items()):
+    value.sort(key=lambda item: item.get('name'))
     f.write('## {}\n'.format(str(key).upper()))
     f.write('|||\n|-|-|\n')
     offset = math.ceil(len(value) / 2)
