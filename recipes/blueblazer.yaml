@@ -1,0 +1,36 @@
+recipe_name: Blue Blazer Cocktail
+ingredients:
+  - scotch whisky:
+    amounts:
+      - amount: 4
+        unit: ounce
+  - water:
+    amounts:
+      - amount: 4
+        unit: ounce
+    processing: boiling
+  - powdered sugar:
+    amounts:
+      - amount: 1
+        unit: teaspoon
+notes:
+  - Use two large silver-plated mugs with handles
+X-type: cocktail
+X-servein: bar tumbler
+X-garnish: lemon twist
+X-ratio: "1:1"
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Put the whisky in one mug and the boiling water in the other.
+  - step:
+      Ignite the whisky with fire, and while blazing mix both ingredients by pouring them 4 or 5 times from one mug to the other.
+  - step:
+      Sweeten with one teaspoon of powdered white sugar, and serve in a small bar tumber, with a piece of lemon peel.
+notes:
+  - If well done, this will have the appearance of a continued stream of liquid fire.
