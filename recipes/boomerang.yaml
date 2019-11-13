@@ -1,0 +1,39 @@
+recipe_name: Boomerang Cocktail
+ingredients:
+  - canadian club whiskey:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - swedish punch:
+    amounts:
+      - amount: 33
+        unit: milliliter
+    notes:
+      - https://www.seriouseats.com/recipes/2012/10/diy-swedish-punsch-recipe-for-cocktails.html
+  - french vermouth:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - angostura bitters:
+    amounts:
+      - amount: 1
+        unit: dash
+  - lemon:
+    amounts:
+      - amount: 1
+        unit: dash
+    processing: juice
+X-type: cocktail
+X-servein: cocktail glass
+X-ratio: "1:1:2"
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Add all ingredients to a shaker with ice.
+  - step:
+      Shake well and strain into a cocktail glass.

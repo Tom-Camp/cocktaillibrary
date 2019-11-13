@@ -1,0 +1,34 @@
+recipe_name: The Blue Train Special Cocktail
+ingredients:
+  - brandy:
+    amounts:
+      - amount: 1
+        unit: glass
+  - pineapple syrup:
+    amounts:
+      - amount: 1
+        unit: glass
+  - champagne:
+    amounts:
+      - amount: 3
+        unit: glass
+notes:
+  - Serves 6
+X-type: cocktail
+X-servein: cocktail glass
+X-ratio: "1:1:3"
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Fill a shaker with cracked ice and pour into it one glass of brandy and one glass of pineapple syrup.
+  - step:
+      Shake carefully.
+  - step:
+      Add three glasses of champagne.
+  - step:
+      Give one or two more shakes and serve without further delay.

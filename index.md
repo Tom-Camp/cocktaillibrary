@@ -23,25 +23,30 @@
 ## B
 |||
 |-|-|
-| [Babbie's Special Cocktail](recipes/babbiesspecial.yaml) | [Black Velvet](recipes/blackvelvet.yaml) |
-| [Bacardi Special Cocktail](recipes/bacardispecial.yaml) | [Blackthorn Cocktail](recipes/blackthorn.yaml) |
-| [Balm Cocktail](recipes/balm.yaml) | [Blanche Cocktail](recipes/blanche.yaml) |
-| [Barbara Cocktail](recipes/barbara.yaml) | [Blenton Cocktail](recipes/blenton.yaml) |
-| [Barney Barnato Cocktail](recipes/barneybarnato.yaml) | [Block and Fall Cocktail](recipes/blockandfall.yaml) |
-| [Baron Cocktail](recipes/baron.yaml) | [Blood and Sand Cocktail](recipes/bloodandsand.yaml) |
-| [Barton Special Cocktail](recipes/bartonspecial.yaml) | [Bloodhound Cocktail](recipes/bloodhound.yaml) |
-| [Bass Wyatt Cocktail](recipes/basswyatt.yaml) | [Blue Bird Cocktail](recipes/bluebird.yaml) |
-| [Belmont Cocktail](recipes/belmont.yaml) | [Blue Blazer Cocktail](recipes/blueblazer.yaml) |
-| [Bennett Cocktail](recipes/bennett.yaml) | [Blue Devil Cocktail](recipes/bluedevil.yaml) |
-| [Bentley Cocktail](recipes/bentley.yaml) | [Blue Monday Cocktail](recipes/bluemonday.yaml) |
-| [Berry Wall Cocktail](recipes/berrywall.yaml) | [Blue Train Cocktail](recipes/bluetrain.yaml) |
-| [Between-the-Sheets Cocktail](recipes/betweenthesheets.yaml) | [Blues Cocktail](recipes/blues.yaml) |
-| [Bich's Special Cocktail](recipes/bichsspecial.yaml) | [Bobby Burns Cocktail](recipes/bobbyburns.yaml) |
-| [Biffy Cocktail](recipes/biffy.yaml) | [Bolo Cocktail](recipes/bolo.yaml) |
-| [Big Boy Cocktail](recipes/bigboy.yaml) | [Bombay Cocktail](recipes/bombay.yaml) |
-| [Bijou Cocktail](recipes/bijou.yaml) | [Boomerang Cocktail](recipes/boomerang.yaml) |
-| [Biltong Dry Cocktail](recipes/biltondry.yaml) | [The Barbary Coast Cocktail](recipes/barbarycoast.yaml) |
-| [Biter Cocktail](recipes/biter.yaml) | [The Blue Train Special Cocktail](recipes/bluetrainspecial.yaml) |
+| [Babbie's Special Cocktail](recipes/babbiesspecial.yaml) | [Blood and Sand Cocktail](recipes/bloodandsand.yaml) |
+| [Bacardi Special Cocktail](recipes/bacardispecial.yaml) | [Bloodhound Cocktail](recipes/bloodhound.yaml) |
+| [Balm Cocktail](recipes/balm.yaml) | [Blue Bird Cocktail](recipes/bluebird.yaml) |
+| [Barbara Cocktail](recipes/barbara.yaml) | [Blue Blazer Cocktail](recipes/blueblazer.yaml) |
+| [Barney Barnato Cocktail](recipes/barneybarnato.yaml) | [Blue Devil Cocktail](recipes/bluedevil.yaml) |
+| [Baron Cocktail](recipes/baron.yaml) | [Blue Monday Cocktail](recipes/bluemonday.yaml) |
+| [Barton Special Cocktail](recipes/bartonspecial.yaml) | [Blue Train Cocktail](recipes/bluetrain.yaml) |
+| [Bass Wyatt Cocktail](recipes/basswyatt.yaml) | [Blues Cocktail](recipes/blues.yaml) |
+| [Belmont Cocktail](recipes/belmont.yaml) | [Bobby Burns Cocktail](recipes/bobbyburns.yaml) |
+| [Bennett Cocktail](recipes/bennett.yaml) | [Bolo Cocktail](recipes/bolo.yaml) |
+| [Bentley Cocktail](recipes/bentley.yaml) | [Bombay Cocktail](recipes/bombay.yaml) |
+| [Berry Wall Cocktail](recipes/berrywall.yaml) | [Boomerang Cocktail](recipes/boomerang.yaml) |
+| [Between-the-Sheets Cocktail](recipes/betweenthesheets.yaml) | [Booster Cocktail](recipes/booster.yaml) |
+| [Bich's Special Cocktail](recipes/bichsspecial.yaml) | [Bosom Caresser Cocktail](recipes/bosomcaresser.yaml) |
+| [Biffy Cocktail](recipes/biffy.yaml) | [Brainstorm Cocktail](recipes/brainstorm.yaml) |
+| [Big Boy Cocktail](recipes/bigboy.yaml) | [Brandy Blazer Cocktail](recipes/brandyblazer.yaml) |
+| [Bijou Cocktail](recipes/bijou.yaml) | [Brandy Cocktail](recipes/brandy.yaml) |
+| [Biltong Dry Cocktail](recipes/biltondry.yaml) | [Brandy Crusta Cocktail](recipes/brandycrusta.yaml) |
+| [Biter Cocktail](recipes/biter.yaml) | [Brandy Gump Cocktail](recipes/brandygump.yaml) |
+| [Black Velvet](recipes/blackvelvet.yaml) | [Brandy Special Cocktail](recipes/brandyspecial.yaml) |
+| [Blackthorn Cocktail](recipes/blackthorn.yaml) | [Brandy Vermouth Cocktail](recipes/brandyvermouth.yaml) |
+| [Blanche Cocktail](recipes/blanche.yaml) | [The Barbary Coast Cocktail](recipes/barbarycoast.yaml) |
+| [Blenton Cocktail](recipes/blenton.yaml) | [The Blue Train Special Cocktail](recipes/bluetrainspecial.yaml) |
+| [Block and Fall Cocktail](recipes/blockandfall.yaml) | []() |
 ## C
 |||
 |-|-|

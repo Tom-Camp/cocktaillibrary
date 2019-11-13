@@ -1,0 +1,45 @@
+recipe_name: Brandy Crusta Cocktail
+ingredients:
+  - brandy:
+    amounts:
+      - amount: 75
+        unit: milliliter
+  - curaçao:
+    amounts:
+      - amount: 25
+        unit: milliliter
+  - lemon:
+    amounts:
+      - amount: 3
+        unit: dash
+    processing: juice
+  - angostura bitters:
+    amounts:
+      - amount: 1
+        unit: dash
+  - maraschino liqueur:
+    amounts:
+      - amount: 3
+        unit: dash
+  - castor sugar
+X-type: cocktail
+X-servein: small wine glass
+X-garnish: orange twist
+X-ratio: "3:1"
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Moisten the edge of a small wine glass with lemon and dip into castor sugar which frosts the glass.
+  - step:
+      Cut the rind of half a lemon spiral fashion, place in glass.
+  - step:
+      Fill glass with crushed ice.
+  - step:
+      Add all ingredients to a mixing glass.
+  - step:
+      Stir well and strain into prepared glass
