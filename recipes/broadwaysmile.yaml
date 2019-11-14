@@ -1,0 +1,26 @@
+recipe_name: Broadway Smile Cocktail
+ingredients:
+  - crème de cassi:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - swedish punch:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - cointreau:
+    amounts:
+      - amount: 33
+        unit: milliliter
+X-type: cocktail
+X-servein: liqueur glass
+X-ratio: "1:1:1"
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Use a liqueur glass and pour carefully so the ingredients do not mix.

@@ -46,8 +46,8 @@
 | [Blackthorn Cocktail](recipes/blackthorn.yaml) | [Broadway Smile Cocktail](recipes/broadwaysmile.yaml) |
 | [Blanche Cocktail](recipes/blanche.yaml) | [Broken Spur Cocktail](recipes/brokenspur.yaml) |
 | [Blenton Cocktail](recipes/blenton.yaml) | [Bronx Cocktail](recipes/bronx.yaml) |
-| [Block and Fall Cocktail](recipes/blockandfall.yaml) | [Bronx Cocktail](recipes/bronxterrace.yaml) |
-| [Blood and Sand Cocktail](recipes/bloodandsand.yaml) | [Bronx Silver Cocktail](recipes/bronxsilver.yaml) |
+| [Block and Fall Cocktail](recipes/blockandfall.yaml) | [Bronx Silver Cocktail](recipes/bronxsilver.yaml) |
+| [Blood and Sand Cocktail](recipes/bloodandsand.yaml) | [Bronx Terrace Cocktail](recipes/bronxterrace.yaml) |
 | [Bloodhound Cocktail](recipes/bloodhound.yaml) | [The Barbary Coast Cocktail](recipes/barbarycoast.yaml) |
 | [Blue Bird Cocktail](recipes/bluebird.yaml) | [The Blue Train Special Cocktail](recipes/bluetrainspecial.yaml) |
 ## C

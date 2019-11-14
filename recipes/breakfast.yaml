@@ -1,0 +1,28 @@
+recipe_name: Breakfast Cocktail
+ingredients:
+  - grenadine:
+    amounts:
+      - amount: 33
+        unit: milliliter
+  - dry gin:
+    amounts:
+      - amount: 66
+        unit: milliliter
+  - egg:
+    amounts:
+      - amount: 1
+    processing: white
+X-type: cocktail
+X-servein: large wine glass
+X-ratio: "2:1"
+source_book:
+  author: Harry Craddock
+  title: The Savoy Cocktail Book
+  isbn: 9781640321083
+  notes:
+    - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
+steps:
+  - step:
+      Add all ingredients to a shaker with ice.
+  - step:
+      Shake well and strain into a large wine glass.
