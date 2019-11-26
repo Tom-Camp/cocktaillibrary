@@ -59,7 +59,11 @@
 ## C
 |||
 |-|-|
-| [Cucumber Collins](recipes/cucumbercollins.yaml) | []() |
+| [Cabaret Cocktail](recipes/cabaret.yaml) | [Calvados Cocktail](recipes/calvados.yaml) |
+| [Cablegram Cocktail](recipes/cablegram.yaml) | [Cameron's Kick Cocktail](recipes/cameronskick.yaml) |
+| [Café Kirsch Cocktail](recipes/cafekirsch.yaml) | [Campden Cocktail](recipes/campden.yaml) |
+| [Café de Paris Cocktail](recipes/cafedeparis.yaml) | [Canadian Cocktail](recipes/canadian.yaml) |
+| [Calvados (Variation) Cocktail](recipes/calvadosvariation.yaml) | [Cucumber Collins](recipes/cucumbercollins.yaml) |
 ## J
 |||
 |-|-|
