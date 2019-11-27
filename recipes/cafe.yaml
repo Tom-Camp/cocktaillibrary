@@ -1,23 +1,21 @@
-recipe_name: Canadian Cocktail
+recipe_name: Cafe Cocktail
 ingredients:
-  - curaçao:
+  - dry gin:
     amounts:
-      - amount: 1
-        unit: liqueur glass
-  - lemon:
+      - amount: 33
+        unit: milliliter
+  - caperitif:
     amounts:
-      - amount: .25
+      - amount: 33
+        unit: milliliter
+  - orange:
+    amounts:
+      - amount: 33
+        unit: milliliter
     processing: juice
-  - powdered sugar:
-    amounts:
-      - amount: .25
-        unit: tablespoon
-  - jamaican rum:
-    amounts:
-      - amount: 3
-        unit: dash
 X-type: cocktail
 X-servein: cocktail glass
+X-ratio: "1:1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

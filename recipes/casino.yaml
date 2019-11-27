@@ -1,23 +1,25 @@
-recipe_name: Canadian Cocktail
+recipe_name: Casino Cocktail
 ingredients:
-  - curaçao:
+  - old tom gin:
     amounts:
       - amount: 1
-        unit: liqueur glass
+        unit: glass
   - lemon:
     amounts:
-      - amount: .25
+      - amount: 2
+        unit: dash
     processing: juice
-  - powdered sugar:
+  - orange bitters:
     amounts:
-      - amount: .25
-        unit: tablespoon
-  - jamaican rum:
+      - amount: 2
+        unit: dash
+  - maraschino liqueur:
     amounts:
-      - amount: 3
+      - amount: 2
         unit: dash
 X-type: cocktail
-X-servein: cocktail glass
+X-servein: cocktail glass\
+X-garnish: cherry
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

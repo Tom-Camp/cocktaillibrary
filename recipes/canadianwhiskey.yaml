@@ -1,20 +1,16 @@
-recipe_name: Canadian Cocktail
+recipe_name: Canadian Whiskey Cocktail
 ingredients:
-  - curaçao:
+  - canadian whiskey:
     amounts:
       - amount: 1
-        unit: liqueur glass
-  - lemon:
+        unit: glass
+  - gomme syrup:
     amounts:
-      - amount: .25
-    processing: juice
-  - powdered sugar:
+      - amount: 2
+        unit: teaspoon
+  - angostura bitters:
     amounts:
-      - amount: .25
-        unit: tablespoon
-  - jamaican rum:
-    amounts:
-      - amount: 3
+      - amount: 2
         unit: dash
 X-type: cocktail
 X-servein: cocktail glass

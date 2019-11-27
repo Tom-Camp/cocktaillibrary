@@ -59,11 +59,17 @@
 ## C
 |||
 |-|-|
-| [Cabaret Cocktail](recipes/cabaret.yaml) | [Calvados Cocktail](recipes/calvados.yaml) |
-| [Cablegram Cocktail](recipes/cablegram.yaml) | [Cameron's Kick Cocktail](recipes/cameronskick.yaml) |
-| [Café Kirsch Cocktail](recipes/cafekirsch.yaml) | [Campden Cocktail](recipes/campden.yaml) |
-| [Café de Paris Cocktail](recipes/cafedeparis.yaml) | [Canadian Cocktail](recipes/canadian.yaml) |
-| [Calvados (Variation) Cocktail](recipes/calvadosvariation.yaml) | [Cucumber Collins](recipes/cucumbercollins.yaml) |
+| [C.F.H. Cocktail](recipes/cfh.yaml) | [Canadian Whiskey Cocktail](recipes/canadianwhiskey.yaml) |
+| [Cabaret Cocktail](recipes/cabaret.yaml) | [Capetown Cocktail](recipes/capetown.yaml) |
+| [Cablegram Cocktail](recipes/cablegram.yaml) | [Carrol Cocktail](recipes/carrol.yaml) |
+| [Cafe Cocktail](recipes/cafe.yaml) | [Caruso Cocktail](recipes/caruso.yaml) |
+| [Café Kirsch Cocktail](recipes/cafekirsch.yaml) | [Casino Cocktail](recipes/casino.yaml) |
+| [Café de Paris Cocktail](recipes/cafedeparis.yaml) | [Castle Dip Cocktail](recipes/castledip.yaml) |
+| [Calvados (Variation) Cocktail](recipes/calvadosvariation.yaml) | [Cats-eye Cocktail](recipes/catseye.yaml) |
+| [Calvados Cocktail](recipes/calvados.yaml) | [Cecil Pick-Me-Up Cocktail](recipes/cecilpickmeup.yaml) |
+| [Cameron's Kick Cocktail](recipes/cameronskick.yaml) | [Champagne Cocktail](recipes/champagne.yaml) |
+| [Campden Cocktail](recipes/campden.yaml) | [Cucumber Collins](recipes/cucumbercollins.yaml) |
+| [Canadian Cocktail](recipes/canadian.yaml) | []() |
 ## J
 |||
 |-|-|

@@ -1,23 +1,18 @@
-recipe_name: Canadian Cocktail
+recipe_name: Champagne Cocktail
 ingredients:
-  - curaçao:
+  - champagne:
+  - sugar:
     amounts:
       - amount: 1
-        unit: liqueur glass
-  - lemon:
+        unit: cube
+  - angostura bitters:
     amounts:
-      - amount: .25
-    processing: juice
-  - powdered sugar:
-    amounts:
-      - amount: .25
-        unit: tablespoon
-  - jamaican rum:
-    amounts:
-      - amount: 3
+      - amount: 1
         unit: dash
 X-type: cocktail
-X-servein: cocktail glass
+X-servein: wine glass
+X-ratio: "1:1"
+X-garnish: lemon twist and orange peel
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book
@@ -26,6 +21,8 @@ source_book:
     - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
 steps:
   - step:
-      Add all ingredients to a shaker with ice.
+      Add sugar cube to a wine glass and saturate with angostura bitters.
   - step:
-      Shake well and strain into a cocktail glass.
+      Add an ice cube and fill with champagne.
+  - step:
+      Squeeze on top a lemon twist and serve with an orange peel

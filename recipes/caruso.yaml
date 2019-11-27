@@ -1,23 +1,20 @@
-recipe_name: Canadian Cocktail
+recipe_name: Caruso Cocktail
 ingredients:
-  - curaçao:
+  - dry gin:
     amounts:
-      - amount: 1
-        unit: liqueur glass
-  - lemon:
+      - amount: 33
+        unit: milliliter
+  - french vermouth:
     amounts:
-      - amount: .25
-    processing: juice
-  - powdered sugar:
+      - amount: 33
+        unit: milliliter
+  - green creme de menthe:
     amounts:
-      - amount: .25
-        unit: tablespoon
-  - jamaican rum:
-    amounts:
-      - amount: 3
-        unit: dash
+      - amount: 33
+        unit: milliliter
 X-type: cocktail
 X-servein: cocktail glass
+X-ratio: "1:1:1"
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book

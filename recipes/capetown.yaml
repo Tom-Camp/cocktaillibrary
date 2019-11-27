@@ -1,23 +1,26 @@
-recipe_name: Canadian Cocktail
+recipe_name: Capetown Cocktail
 ingredients:
   - curaçao:
     amounts:
-      - amount: 1
-        unit: liqueur glass
-  - lemon:
-    amounts:
-      - amount: .25
-    processing: juice
-  - powdered sugar:
-    amounts:
-      - amount: .25
-        unit: tablespoon
-  - jamaican rum:
-    amounts:
       - amount: 3
+        unit: dash
+  - caperitif:
+    amounts:
+      - amount: 50
+        unit: milliliter
+  - canadian whiskey:
+    amounts:
+      - amount: 50
+        unit: milliliter
+    processing: juice
+  - angostura bitters:
+    amounts:
+      - amount: 1
         unit: dash
 X-type: cocktail
 X-servein: cocktail glass
+X-ratio: "1:1"
+X-garnish: lemon twist
 source_book:
   author: Harry Craddock
   title: The Savoy Cocktail Book
@@ -26,6 +29,6 @@ source_book:
     - All recipes are based on a 100ml (3 ½ fl oz) mixed drink and are made for drinking vessels of approx. 150ml-200ml (5-7 fl oz). 1 bar spoon equals approximately 5ml, whereas a dash amounts to approximately 3ml or ½ bar spoon.
 steps:
   - step:
-      Add all ingredients to a shaker with ice.
+      Add all ingredients to a mixing glass with ice.
   - step:
-      Shake well and strain into a cocktail glass.
+      Stir well and strain into a cocktail glass.
